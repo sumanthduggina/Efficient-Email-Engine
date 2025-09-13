@@ -1,0 +1,13 @@
+package com.sumanth.email_campaign;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BulkEmailSenderApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
